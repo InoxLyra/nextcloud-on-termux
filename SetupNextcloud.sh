@@ -30,7 +30,7 @@ UdockerCreate()
 
 		echo -e "🧰${BLUE}Creating the Nextcloud container...${NC}"
 		udocker create --name="$1" "$2" >/dev/null 2>&1 & Loading
-		echo -e "${YELLOW}Container was created successfully.${NC}"
+		echo -e "✅${YELLOW}Container was created successfully.${NC}"
 	  fi
 }
 
