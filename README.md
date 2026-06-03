@@ -2,6 +2,10 @@
 
 An easy-to-use script for installing nextcloud on termux.
 
+## Features
+- Debloater
+- Backup
+
 ## References
 
 - [Udocker](https://github.com/indigo-dc/udocker)
