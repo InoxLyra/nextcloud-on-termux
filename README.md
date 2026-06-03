@@ -3,6 +3,7 @@
 An easy-to-use script for installing nextcloud on termux.
 
 ## Features
+- No root
 - Debloater
 - Backup
 
